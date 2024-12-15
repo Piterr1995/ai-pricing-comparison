@@ -1,4 +1,5 @@
-Model,Input (USD/1M tokenów),Output (USD/1M tokenów),Kontekst (tokeny)
+Sekcja 1: Ceny API (za 1M tokenów)
+Model,Input (USD),Output (USD),Kontekst (tokeny)
 Claude 3 Haiku,0.25,0.75,200K
 Claude 3 Sonnet,3.00,15.00,200K
 Claude 3 Opus,15.00,75.00,200K
@@ -6,3 +7,12 @@ GPT-3.5 Turbo,0.50,1.50,16K
 GPT-4 Turbo,10.00,30.00,128K
 Gemini Pro,0.50,0.50,32K
 Gemini Ultra,20.00,20.00,32K
+
+Sekcja 2: Ceny subskrypcji miesięcznych
+Platforma,Plan,Cena (USD/miesiąc),Zawartość
+OpenAI,ChatGPT Plus,20,GPT-4 z limitem wiadomości + GPT-3.5 bez limitu
+OpenAI,ChatGPT Team,25,GPT-4 + rozszerzone funkcje dla zespołów + workspace
+OpenAI,ChatGPT Enterprise,Wycena indywidualna,GPT-4 bez limitów + zaawansowane funkcje dla firm
+Anthropic,Claude Pro,20,Claude-3 (dostęp do wszystkich modeli z limitami)
+Anthropic,Claude Business,35,Większe limity + zaawansowane funkcje dla firm
+Google,Gemini Advanced,20,Dostęp do Gemini Ultra + dodatkowe funkcje w Google Workspace
