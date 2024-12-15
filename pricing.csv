@@ -1,0 +1,8 @@
+Model,Input (USD/1M tokenów),Output (USD/1M tokenów),Kontekst (tokeny)
+Claude 3 Haiku,0.25,0.75,200K
+Claude 3 Sonnet,3.00,15.00,200K
+Claude 3 Opus,15.00,75.00,200K
+GPT-3.5 Turbo,0.50,1.50,16K
+GPT-4 Turbo,10.00,30.00,128K
+Gemini Pro,0.50,0.50,32K
+Gemini Ultra,20.00,20.00,32K
